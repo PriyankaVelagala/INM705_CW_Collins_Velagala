@@ -1,4 +1,4 @@
-# INM705 CW: Large Vocabulary Instance Segmentation  
+# Setup
 
 Create the directory structure for images and annotations  
 From the main project folder: run project_setup.sh:  
